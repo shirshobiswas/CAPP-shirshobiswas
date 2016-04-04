@@ -1,0 +1,67 @@
+Field Name: First_name
+Mode: 0    Amy
+dtype: object
+
+
+
+
+Field Name: Last_name
+Mode: 0    Ross
+dtype: object
+
+
+
+
+Field Name: State
+Mode: 0    Texas
+dtype: object
+
+
+
+
+Field Name: Gender
+Mode: 0    Female
+dtype: object
+
+
+
+
+Field Name: Age
+Mean: 16.9961089494
+Std Dev: 1.45806682496
+Median: 17.0
+Mode: 0    15.0
+dtype: float64
+
+
+
+
+Field Name: GPA
+Mean: 2.98844672657
+Std Dev: 0.818249448564
+Median: 3.0
+Mode: 0    2.0
+dtype: float64
+
+
+
+
+Field Name: Days_missed
+Mean: 18.0111386139
+Std Dev: 9.62937084345
+Median: 18.0
+Mode: 0     6.0
+1    14.0
+2    31.0
+dtype: float64
+
+
+
+
+Field Name: Graduated
+Mode: 0    Yes
+dtype: object
+
+
+
+
